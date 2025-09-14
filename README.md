@@ -1,6 +1,6 @@
 # Sub-basin Extraction Near Gauges (Ontario) — Google Earth Engine + HydroATLAS
 
-Extract **HydroATLAS Level‑12** sub‑basins intersecting a circular buffer around each gauge and export them as **Shapefiles (zipped)** — one per gauge plus an optional combined ZIP. Works locally (no Colab required).
+Extract **HydroATLAS Level‑12** sub‑basins intersecting a circular buffer around each gauge and export them as **Shapefiles (zipped)**, one per gauge plus an optional combined ZIP. Works locally (no Colab required).
 
 ## Features
 - Reads a CSV of gauges with columns for **latitude**, **longitude**, and **station id**
