@@ -1,0 +1,5 @@
+earthengine-api
+geopandas
+fiona
+shapely
+pandas
